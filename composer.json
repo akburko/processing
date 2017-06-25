@@ -1,7 +1,6 @@
 {
     "name": "akburko/processing",
-    "type": "library",
-	"minimum-stability": "dev",
+    "type": "library",	
     "description": "Processing of events",
     "keywords": ["incoming message", "outgoing message"],
     "homepage": "http://kalartelecom.com",
